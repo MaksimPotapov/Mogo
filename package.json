@@ -10,6 +10,7 @@
     "serve": "browser-sync start --server --files '*.html' 'css/*.css' 'js/*.js'"
   },
   "dependencies": {
-    "browser-sync": "^2.26.13"
+    "browser-sync": "^2.26.13",
+    "jquery": "^3.5.1"
   }
 }
